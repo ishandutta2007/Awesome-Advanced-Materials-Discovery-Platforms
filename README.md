@@ -5,7 +5,7 @@
 # ⚛️ Awesome Advanced Materials Discovery Platforms
 
 [![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Advanced-Materials-Discovery-Platforms?style=flat-square&color=gold)](https://github.com/ishandutta2007/Awesome-Advanced-Materials-Discovery-Platforms/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Advanced-Materials-Discovery-Platforms?style=flat-square&color=gold)](https://github.com/ishandutta2007/Awesome-Advanced-Materials-Discovery-Platforms/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Advanced-Materials-Discovery-Platforms?style=flat-square&color=blue)](https://github.com/ishandutta2007/Awesome-Advanced-Materials-Discovery-Platforms/network/members)
 [![Issues](https://img.shields.io/github/issues/ishandutta2007/Awesome-Advanced-Materials-Discovery-Platforms?style=flat-square)](https://github.com/ishandutta2007/Awesome-Advanced-Materials-Discovery-Platforms/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Advanced-Materials-Discovery-Platforms/pulls)
@@ -70,125 +70,125 @@
 ## 💻 Open-Source GitHub Projects
 
 > [!TIP]  
-> All open-source repositories below are **strictly ranked in descending order by GitHub Stars**. Click any star badge to jump directly to that project's stargazers community!
+> All open-source repositories below are **strictly ranked in descending order by GitHub_Stars**. Click any Stars_Badge to jump directly to that project's stargazers community!
 
-- **[DeepChem](https://github.com/deepchem/deepchem)** [![GitHub stars](https://img.shields.io/github/stars/deepchem/deepchem?style=social&color=white)](https://github.com/deepchem/deepchem/stargazers)  
+- **[DeepChem](https://github.com/deepchem/deepchem)** [![GitHub_Stars](https://img.shields.io/github/stars/deepchem/deepchem?style=social&color=white)](https://github.com/deepchem/deepchem/stargazers)  
   *Open-source Python framework (MIT) for deep learning on molecular and materials data.*  
   Converts raw molecular and crystallographic structures into graph neural networks and SMILES embeddings. Features disk-sharded persistence for massive datasets exceeding RAM, featurizer-pipeline abstractions, and molecular docking workflows.
 
-- **[FAIR-Chem / Open Catalyst](https://github.com/FAIR-Chem/fairchem)** [![GitHub stars](https://img.shields.io/github/stars/FAIR-Chem/fairchem?style=social&color=white)](https://github.com/FAIR-Chem/fairchem/stargazers)  
+- **[FAIR-Chem / Open Catalyst](https://github.com/FAIR-Chem/fairchem)** [![GitHub_Stars](https://img.shields.io/github/stars/FAIR-Chem/fairchem?style=social&color=white)](https://github.com/FAIR-Chem/fairchem/stargazers)  
   *Fundamental AI Research for Chemistry & Materials by Meta and Carnegie Mellon University (MIT).*  
   Home to the Open Catalyst Project (OCP) and Open DAC (Direct Air Capture). Implements state-of-the-art equivariant graph neural networks (EquiformerV2, GemNet-OC, PaiNN) to discover energy materials and catalytic surfaces for renewable fuels and climate solutions.
 
-- **[pymatgen](https://github.com/materialsproject/pymatgen)** [![GitHub stars](https://img.shields.io/github/stars/materialsproject/pymatgen?style=social&color=white)](https://github.com/materialsproject/pymatgen/stargazers)  
+- **[pymatgen](https://github.com/materialsproject/pymatgen)** [![GitHub_Stars](https://img.shields.io/github/stars/materialsproject/pymatgen?style=social&color=white)](https://github.com/materialsproject/pymatgen/stargazers)  
   *Python Materials Genomics library (BSD-3-Clause) powering the Materials Project.*  
   The industry-standard core computational library for crystallographic structure manipulation, phase diagrams, pourbaix diagrams, band structure analysis, electronic densities of states, and integration with VASP, Quantum ESPRESSO, and Gaussian.
 
-- **[MatterGen (Microsoft)](https://github.com/microsoft/mattergen)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/mattergen?style=social&color=white)](https://github.com/microsoft/mattergen/stargazers)  
+- **[MatterGen (Microsoft)](https://github.com/microsoft/mattergen)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/mattergen?style=social&color=white)](https://github.com/microsoft/mattergen/stargazers)  
   *Generative diffusion model for inorganic materials design across the entire periodic table (MIT).*  
   Generates entirely novel, stable 3D crystal structures conditioned on specified target property constraints (symmetry space groups, chemical systems, magnetic moments, and elastic tensors), replacing brute-force trial-and-error discovery.
 
-- **[MACE](https://github.com/ACEsuit/mace)** [![GitHub stars](https://img.shields.io/github/stars/ACEsuit/mace?style=social&color=white)](https://github.com/ACEsuit/mace/stargazers)  
+- **[MACE](https://github.com/ACEsuit/mace)** [![GitHub_Stars](https://img.shields.io/github/stars/ACEsuit/mace?style=social&color=white)](https://github.com/ACEsuit/mace/stargazers)  
   *Higher-order Equivariant Message Passing Interatomic Potentials (MIT).*  
   State-of-the-art machine learning interatomic potential combining fast evaluation speed with first-principles quantum mechanical accuracy across molecules, liquids, crystals, and interfaces. Widely used for molecular dynamics simulations of complex materials.
 
-- **[GNoME / Materials Discovery (Google DeepMind)](https://github.com/google-deepmind/materials_discovery)** [![GitHub stars](https://img.shields.io/github/stars/google-deepmind/materials_discovery?style=social&color=white)](https://github.com/google-deepmind/materials_discovery/stargazers)  
+- **[GNoME / Materials Discovery (Google DeepMind)](https://github.com/google-deepmind/materials_discovery)** [![GitHub_Stars](https://img.shields.io/github/stars/google-deepmind/materials_discovery?style=social&color=white)](https://github.com/google-deepmind/materials_discovery/stargazers)  
   *Scaling Deep Learning for Materials Discovery (Apache-2.0).*  
   Reference repository for Google DeepMind's Graph Networks for Materials Exploration (GNoME), which expanded known stable crystal materials by an order of magnitude (2.2 million new crystal structures, with 380,000+ stable candidates).
 
-- **[SchNetPack](https://github.com/atomistic-machine-learning/schnetpack)** [![GitHub stars](https://img.shields.io/github/stars/atomistic-machine-learning/schnetpack?style=social&color=white)](https://github.com/atomistic-machine-learning/schnetpack/stargazers)  
+- **[SchNetPack](https://github.com/atomistic-machine-learning/schnetpack)** [![GitHub_Stars](https://img.shields.io/github/stars/atomistic-machine-learning/schnetpack?style=social&color=white)](https://github.com/atomistic-machine-learning/schnetpack/stargazers)  
   *Deep Neural Networks for Atomistic Systems (MIT).*  
   PyTorch-based toolkit for atomistic neural networks including continuous-filter convolutional layers (SchNet, PaiNN, So3krates). Enables rotational-invariant and equivariant property prediction alongside direct molecular dynamics simulation.
 
-- **[matminer](https://github.com/hackingmaterials/matminer)** [![GitHub stars](https://img.shields.io/github/stars/hackingmaterials/matminer?style=social&color=white)](https://github.com/hackingmaterials/matminer/stargazers)  
+- **[matminer](https://github.com/hackingmaterials/matminer)** [![GitHub_Stars](https://img.shields.io/github/stars/hackingmaterials/matminer?style=social&color=white)](https://github.com/hackingmaterials/matminer/stargazers)  
   *Data mining toolkit for materials science (Modified BSD).*  
   Extracts complex physical, structural, electronic, and compositional descriptors from crystal and molecular structures into standard pandas dataframes ready for scikit-learn, XGBoost, and PyTorch pipelines.
 
-- **[MatGL](https://github.com/materialsvirtuallab/matgl)** [![GitHub stars](https://img.shields.io/github/stars/materialsvirtuallab/matgl?style=social&color=white)](https://github.com/materialsvirtuallab/matgl/stargazers)  
+- **[MatGL](https://github.com/materialsvirtuallab/matgl)** [![GitHub_Stars](https://img.shields.io/github/stars/materialsvirtuallab/matgl?style=social&color=white)](https://github.com/materialsvirtuallab/matgl/stargazers)  
   *Materials Graph Library for Materials Science (BSD-3-Clause).*  
   Next-generation graph neural network package from Materials Virtual Lab implementing M3GNet (universal potential for the periodic table) and MEGNet using PyTorch and DGL. Supports energy, force, stress prediction, and structure relaxation.
 
-- **[MEGNet](https://github.com/materialsvirtuallab/megnet)** [![GitHub stars](https://img.shields.io/github/stars/materialsvirtuallab/megnet?style=social&color=white)](https://github.com/materialsvirtuallab/megnet/stargazers)  
+- **[MEGNet](https://github.com/materialsvirtuallab/megnet)** [![GitHub_Stars](https://img.shields.io/github/stars/materialsvirtuallab/megnet?style=social&color=white)](https://github.com/materialsvirtuallab/megnet/stargazers)  
   *MatErials Graph Network for predicting material properties (BSD-3-Clause).*  
   Pioneering crystal graph neural network utilizing node, edge, and state attributes to predict formation energy, band gap, and elastic moduli directly from atomic configurations.
 
-- **[DScribe](https://github.com/SINGROUP/dscribe)** [![GitHub stars](https://img.shields.io/github/stars/SINGROUP/dscribe?style=social&color=white)](https://github.com/SINGROUP/dscribe/stargazers)  
+- **[DScribe](https://github.com/SINGROUP/dscribe)** [![GitHub_Stars](https://img.shields.io/github/stars/SINGROUP/dscribe?style=social&color=white)](https://github.com/SINGROUP/dscribe/stargazers)  
   *Machine Learning Descriptors for Atomistic Systems (Apache-2.0).*  
   High-performance C/C++ and Python implementation of atomic representations including Smooth Overlap of Atomic Positions (SOAP), Atom-Centered Symmetry Functions (ACSF), Coulomb Matrix, and Many-body Tensor Representation (MBTR).
 
-- **[MAML](https://github.com/materialsvirtuallab/maml)** [![GitHub stars](https://img.shields.io/github/stars/materialsvirtuallab/maml?style=social&color=white)](https://github.com/materialsvirtuallab/maml/stargazers)  
+- **[MAML](https://github.com/materialsvirtuallab/maml)** [![GitHub_Stars](https://img.shields.io/github/stars/materialsvirtuallab/maml?style=social&color=white)](https://github.com/materialsvirtuallab/maml/stargazers)  
   *Materials Machine Learning package (BSD-3-Clause).*  
   Combines descriptors, ML potentials (SNAP, GAP, MTP, Neural Networks), and deep learning models to predict materials properties and run molecular simulations with automated feature selection.
 
-- **[FireWorks](https://github.com/materialsproject/fireworks)** [![GitHub stars](https://img.shields.io/github/stars/materialsproject/fireworks?style=social&color=white)](https://github.com/materialsproject/fireworks/stargazers)  
+- **[FireWorks](https://github.com/materialsproject/fireworks)** [![GitHub_Stars](https://img.shields.io/github/stars/materialsproject/fireworks?style=social&color=white)](https://github.com/materialsproject/fireworks/stargazers)  
   *Workflow management system for high-throughput computational materials science (Modified BSD).*  
   Powers the Materials Project calculation backends across distributed supercomputing clusters (Slurm, PBS, SGE). Features MongoDB tracking, dynamic failure recovery, and multi-step dependency orchestration.
 
-- **[CHGNet](https://github.com/CederGroupHub/chgnet)** [![GitHub stars](https://img.shields.io/github/stars/CederGroupHub/chgnet?style=social&color=white)](https://github.com/CederGroupHub/chgnet/stargazers)  
+- **[CHGNet](https://github.com/CederGroupHub/chgnet)** [![GitHub_Stars](https://img.shields.io/github/stars/CederGroupHub/chgnet?style=social&color=white)](https://github.com/CederGroupHub/chgnet/stargazers)  
   *Pretrained universal neural network potential for charge-informed atomistic modeling (BSD-3-Clause).*  
   Trained on over 1.5 million inorganic materials structures from the Materials Project. Employs crystal graph convolutional neural networks with orbital interaction physics to predict energy, forces, stress, and magnetic moments.
 
-- **[FLARE](https://github.com/mir-group/flare)** [![GitHub stars](https://img.shields.io/github/stars/mir-group/flare?style=social&color=white)](https://github.com/mir-group/flare/stargazers)  
+- **[FLARE](https://github.com/mir-group/flare)** [![GitHub_Stars](https://img.shields.io/github/stars/mir-group/flare?style=social&color=white)](https://github.com/mir-group/flare/stargazers)  
   *Fast Learning Architecture for Real-Time Electrochemistry & Materials (MIT).*  
   Closed-loop on-the-fly machine learning molecular dynamics platform from Harvard MIR group. Combines Gaussian process regression and Bayesian uncertainty quantification to train interatomic potentials automatically during simulation.
 
-- **[atomate2](https://github.com/materialsproject/atomate2)** [![GitHub stars](https://img.shields.io/github/stars/materialsproject/atomate2?style=social&color=white)](https://github.com/materialsproject/atomate2/stargazers)  
+- **[atomate2](https://github.com/materialsproject/atomate2)** [![GitHub_Stars](https://img.shields.io/github/stars/materialsproject/atomate2?style=social&color=white)](https://github.com/materialsproject/atomate2/stargazers)  
   *Next-generation computational materials science workflow library (Modified BSD).*  
   Provides standardized computational workflows for VASP, CP2K, and Lobster. Manages structure relaxations, electronic band gaps, optical absorption, dielectric constants, and elastic tensors.
 
-- **[MatBench Discovery](https://github.com/janosh/matbench-discovery)** [![GitHub stars](https://img.shields.io/github/stars/janosh/matbench-discovery?style=social&color=white)](https://github.com/janosh/matbench-discovery/stargazers)  
+- **[MatBench Discovery](https://github.com/janosh/matbench-discovery)** [![GitHub_Stars](https://img.shields.io/github/stars/janosh/matbench-discovery?style=social&color=white)](https://github.com/janosh/matbench-discovery/stargazers)  
   *Live evaluation benchmark for high-throughput materials discovery models (MIT).*  
   Benchmarks machine learning interatomic potentials and property predictors against dynamic thermodynamic stability, convex hull energy errors, and chemical diversity metrics.
 
-- **[SMACT](https://github.com/wmd-group/smact)** [![GitHub stars](https://img.shields.io/github/stars/wmd-group/smact?style=social&color=white)](https://github.com/wmd-group/smact/stargazers)  
+- **[SMACT](https://github.com/wmd-group/smact)** [![GitHub_Stars](https://img.shields.io/github/stars/wmd-group/smact?style=social&color=white)](https://github.com/wmd-group/smact/stargazers)  
   *Semiconducting Materials from Analogy and Chemical Theory (MIT).*  
   Filters chemical composition space using Pauling electronegativity, ionic radii, and oxidation states to identify hypothetical stable semiconductor and energy materials candidates prior to expensive simulations.
 
-- **[JARVIS Tools](https://github.com/JARVIS-Materials-Design/jarvis-tools-notebooks)** [![GitHub stars](https://img.shields.io/github/stars/JARVIS-Materials-Design/jarvis-tools-notebooks?style=social&color=white)](https://github.com/JARVIS-Materials-Design/jarvis-tools-notebooks/stargazers)  
+- **[JARVIS Tools](https://github.com/JARVIS-Materials-Design/jarvis-tools-notebooks)** [![GitHub_Stars](https://img.shields.io/github/stars/JARVIS-Materials-Design/jarvis-tools-notebooks?style=social&color=white)](https://github.com/JARVIS-Materials-Design/jarvis-tools-notebooks/stargazers)  
   *NIST data-driven materials discovery platform (Public Domain / NIST License).*  
   Integrates DFT calculations, classical force fields, atomistic graph neural networks (ALIGNN), and quantum algorithms with standardized benchmarks via the JARVIS-Leaderboard.
 
-- **[emmet](https://github.com/materialsproject/emmet)** [![GitHub stars](https://img.shields.io/github/stars/materialsproject/emmet?style=social&color=white)](https://github.com/materialsproject/emmet/stargazers)  
+- **[emmet](https://github.com/materialsproject/emmet)** [![GitHub_Stars](https://img.shields.io/github/stars/materialsproject/emmet?style=social&color=white)](https://github.com/materialsproject/emmet/stargazers)  
   *Data builder and pipeline models for Materials Project (Modified BSD).*  
   Structures, validates, and translates raw calculation outputs into standardized JSON/MongoDB documents for materials property APIs and databases.
 
-- **[Aviary](https://github.com/CompRhys/aviary)** [![GitHub stars](https://img.shields.io/github/stars/CompRhys/aviary?style=social&color=white)](https://github.com/CompRhys/aviary/stargazers)  
+- **[Aviary](https://github.com/CompRhys/aviary)** [![GitHub_Stars](https://img.shields.io/github/stars/CompRhys/aviary?style=social&color=white)](https://github.com/CompRhys/aviary/stargazers)  
   *Coordinate-free deep learning models for materials property prediction (MIT).*  
   Features Roost (Representation Learning from Stoichiometry) and Wren (fractional crystal coordinate encoder), predicting material stability and band gaps directly from stoichiometric compositions.
 
-- **[AMPtorch](https://github.com/ulissigroup/amptorch)** [![GitHub stars](https://img.shields.io/github/stars/ulissigroup/amptorch?style=social&color=white)](https://github.com/ulissigroup/amptorch/stargazers)  
+- **[AMPtorch](https://github.com/ulissigroup/amptorch)** [![GitHub_Stars](https://img.shields.io/github/stars/ulissigroup/amptorch?style=social&color=white)](https://github.com/ulissigroup/amptorch/stargazers)  
   *Atomistic Machine-learning Potential package in PyTorch (MIT).*  
   Developed by Ulissi Group at CMU. Offers fast training and deployment of neural network force fields optimized for surface catalysis, molecular adsorption, and interface simulations.
 
-- **[mat_discover](https://github.com/sparks-baird/mat_discover)** [![GitHub stars](https://img.shields.io/github/stars/sparks-baird/mat_discover?style=social&color=white)](https://github.com/sparks-baird/mat_discover/stargazers)  
+- **[mat_discover](https://github.com/sparks-baird/mat_discover)** [![GitHub_Stars](https://img.shields.io/github/stars/sparks-baird/mat_discover?style=social&color=white)](https://github.com/sparks-baird/mat_discover/stargazers)  
   *Active learning and chemical novelty algorithm for materials discovery (MIT).*  
   Implements density-based novelty search and Bayesian optimization to identify high-performance candidates located in unexplored regions of chemical compositional space.
 
-- **[DiffPy Structure](https://github.com/diffpy/diffpy.structure)** [![GitHub stars](https://img.shields.io/github/stars/diffpy/diffpy.structure?style=social&color=white)](https://github.com/diffpy/diffpy.structure/stargazers)  
+- **[DiffPy Structure](https://github.com/diffpy/diffpy.structure)** [![GitHub_Stars](https://img.shields.io/github/stars/diffpy/diffpy.structure?style=social&color=white)](https://github.com/diffpy/diffpy.structure/stargazers)  
   *Diffraction and crystallographic structure toolkit (BSD-3-Clause).*  
   Provides robust primitives for crystal lattice transformations, atomic coordinate manipulation, space group symmetry lookups, and atomic pair distribution function (PDF) analysis.
 
-- **[CSPML](https://github.com/minoru938/cspml)** [![GitHub stars](https://img.shields.io/github/stars/minoru938/cspml?style=social&color=white)](https://github.com/minoru938/cspml/stargazers)  
+- **[CSPML](https://github.com/minoru938/cspml)** [![GitHub_Stars](https://img.shields.io/github/stars/minoru938/cspml?style=social&color=white)](https://github.com/minoru938/cspml/stargazers)  
   *Crystal Structure Prediction by Machine Learning.*  
   Binary classification neural network predicting thermodynamically stable polymorphs for any query composition by querying structural database prototypes.
 
-- **[LeMaterial Hasher](https://github.com/LeMaterial/lematerial-hasher)** [![GitHub stars](https://img.shields.io/github/stars/LeMaterial/lematerial-hasher?style=social&color=white)](https://github.com/LeMaterial/lematerial-hasher/stargazers)  
+- **[LeMaterial Hasher](https://github.com/LeMaterial/lematerial-hasher)** [![GitHub_Stars](https://img.shields.io/github/stars/LeMaterial/lematerial-hasher?style=social&color=white)](https://github.com/LeMaterial/lematerial-hasher/stargazers)  
   *Ultra-fast crystallographic deduplication and structure fingerprinting (Apache-2.0).*  
   De-duplicates multi-million crystal datasets across disparate repositories (processes the Carbon-24 benchmark dataset in 100 seconds vs 17 hours with traditional StructureMatcher algorithms).
 
-- **[CrabNet](https://github.com/sparks-baird/CrabNet)** [![GitHub stars](https://img.shields.io/github/stars/sparks-baird/CrabNet?style=social&color=white)](https://github.com/sparks-baird/CrabNet/stargazers)  
+- **[CrabNet](https://github.com/sparks-baird/CrabNet)** [![GitHub_Stars](https://img.shields.io/github/stars/sparks-baird/CrabNet?style=social&color=white)](https://github.com/sparks-baird/CrabNet/stargazers)  
   *Compositionally Restricted Attention-Based Network (MIT).*  
   Predicts physical and electronic properties solely from raw chemical formula compositions using self-attention mechanisms without requiring prior 3D coordinate inputs.
 
-- **[AtomGPT](https://github.com/usnistgov/atomgpt)** [![GitHub stars](https://img.shields.io/github/stars/usnistgov/atomgpt?style=social&color=white)](https://github.com/usnistgov/atomgpt/stargazers)  
+- **[AtomGPT](https://github.com/usnistgov/atomgpt)** [![GitHub_Stars](https://img.shields.io/github/stars/usnistgov/atomgpt?style=social&color=white)](https://github.com/usnistgov/atomgpt/stargazers)  
   *Atomistic Generative Pretrained Transformer by NIST (Public Domain).*  
   Enables bidirectional forward (structure to property) and inverse (target property to atomic configuration) crystal generation. Includes DiffractGPT for generating 3D crystal structures directly from experimental XRD spectra.
 
-- **[HypoGen](https://github.com/pnnl/hypogen)** [![GitHub stars](https://img.shields.io/github/stars/pnnl/hypogen?style=social&color=white)](https://github.com/pnnl/hypogen/stargazers)  
+- **[HypoGen](https://github.com/pnnl/hypogen)** [![GitHub_Stars](https://img.shields.io/github/stars/pnnl/hypogen?style=social&color=white)](https://github.com/pnnl/hypogen/stargazers)  
   *Autonomous Knowledge Discovery Workflow in Materials Science by PNNL (BSD-2-Clause).*  
   Integrates scientific literature extraction, experimental automation pipelines, and machine learning to generate testable materials science hypotheses without human intervention.
 
-- **[D2GNN](https://github.com/sandialabs/d2gnn)** [![GitHub stars](https://img.shields.io/github/stars/sandialabs/d2gnn?style=social&color=white)](https://github.com/sandialabs/d2gnn/stargazers)  
+- **[D2GNN](https://github.com/sandialabs/d2gnn)** [![GitHub_Stars](https://img.shields.io/github/stars/sandialabs/d2gnn?style=social&color=white)](https://github.com/sandialabs/d2gnn/stargazers)  
   *Defect Diffusion Graph Neural Networks by Sandia National Laboratories (MIT).*  
   Predicts defect formation, vacancy hopping, and ion diffusion pathways for clean-energy, high-temperature solid electrolytes and ceramics.
 
@@ -264,7 +264,7 @@ We actively welcome contributions from materials scientists, computational chemi
 2. 🌿 Create a feature branch (`git checkout -b add-novel-discovery-platform`).
 3. 📝 Update `README.md` following the established guidelines:
    - **For SaaS platforms**: Include accurate company size/valuation, specific starting prices, and specific free tier/trial limits in the comparison table.
-   - **For Open-Source tools**: Include official link, GitHub star badge (`style=social&color=white` linking to stargazers), license, and an informative 2–3 sentence overview.
+   - **For Open-Source tools**: Include official link, GitHub Stars_Badge (`style=social&color=white` linking to stargazers), license, and an informative 2–3 sentence overview.
 4. 📬 Submit a Pull Request with a succinct description of the platform's focus.
 
 ---
